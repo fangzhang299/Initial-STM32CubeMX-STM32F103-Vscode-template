@@ -17,3 +17,4 @@
 # eide template
 *.ept
 *.eide-template
+Core/Src/main.c
