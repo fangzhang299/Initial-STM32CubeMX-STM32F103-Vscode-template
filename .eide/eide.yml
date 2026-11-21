@@ -1,8 +1,8 @@
 version: "4.1"
 name: Model
 type: ARM
-deviceName: STM32F103C8
-packDir: .pack/Keil/STM32F1xx_DFP.2.3.0
+deviceName: null
+packDir: null
 srcDirs:
   - Core/Src
   - Drivers/STM32F1xx_HAL_Driver/Src
