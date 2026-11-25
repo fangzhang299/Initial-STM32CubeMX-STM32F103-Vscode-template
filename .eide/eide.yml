@@ -8,7 +8,8 @@ srcDirs:
   - Drivers/STM32F1xx_HAL_Driver/Src
 virtualFolder:
   name: <virtual_root>
-  files: []
+  files:
+    - path: startup_stm32f103xb.s
   folders: []
 dependenceList: []
 outDir: build
